@@ -5,3 +5,7 @@ shop:
 name:
   mine: sagar singh
   friend: aakash
+
+user:
+  name: generic-application
+  password: gene
