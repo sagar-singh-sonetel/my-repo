@@ -6,6 +6,6 @@ name:
   mine: sagar singh in main
   friend: aakash
 
-user:
-  name: i am in git 
+users:
+  name: sam.yml 
   password: (sam/default/main)
