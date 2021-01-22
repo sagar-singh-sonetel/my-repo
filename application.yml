@@ -6,6 +6,6 @@ name:
   mine: sagar singh
   friend: aakash
 
-user:
-  name: generic-application
-  password: gene
+users:
+  name: application
+  password: main branch
