@@ -1,3 +1,3 @@
-user:
-  name: generic-bootstrap
-  password: gene
+users:
+  name: bootstrap
+  password: main-branch
