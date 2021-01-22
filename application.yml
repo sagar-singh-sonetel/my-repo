@@ -5,3 +5,6 @@ shop:
 name:
   mine: sagar singh
   friend: aakash
+users:
+  name: application
+  password: master branch
